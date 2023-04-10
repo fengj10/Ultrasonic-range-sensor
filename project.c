@@ -23,7 +23,6 @@ int main(void)
   while (1) {
     LCDWriteStringXY(0, 0, "Distance: ");
     distence =  getCm(trigPin, echoPin);
-    _delay_ms(100);
     LCDWriteStringXY(0, 1, distence);
 
     if (distence < 20 && distence > 10) {
