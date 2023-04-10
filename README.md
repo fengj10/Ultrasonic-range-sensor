@@ -1,5 +1,5 @@
 # Ultrasonic-range-sensor
-This is the project about using the ultrasonic and buzzer implemented with Arduino chips.
+This is the project about using the ultrasonic and buzzer to implement a distance alarm.
 
 # SubMitted file
 C code  
